@@ -1,4 +1,4 @@
-# AAVL Tree in Python
+# AVL Tree in Python
 
 his project is a full implementation of an **AVL Tree** in Python, developed as part of a university Data Structures course. The tree supports dynamic insertions, deletions, and searches while maintaining balance for guaranteed logarithmic time complexity.
 
