@@ -11,12 +11,13 @@ his project is a full implementation of an **AVL Tree** in Python, developed as 
 - Successor search and in-order traversal
 - Node height and balance management
 
-##Rotations and Rebalancing
+##  Rotations and Rebalancing
 
 - The tree automatically maintains balance using **left** and **right rotations**.
 - The `rebalance()` method is called after insertions or deletions.
 - Rotations occur in constant time `O(1)`; rebalancing is `O(log n)` in the worst case.
 
+---
 ## ⏱️ Time Complexities
 
 | Operation        | Complexity |
